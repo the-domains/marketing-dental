@@ -21,7 +21,7 @@ color:
     - '#4d505f'
     - '#c49480'
     - '#262930'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
