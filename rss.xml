@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marketing Dental]]></title>
+        <description><![CDATA[Marketing Dental]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 08:00:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Growing A Successful Practice</p>]]></description>
+            <link>undefinede2fdee5a-4afe-48c3-87a6-9c072d6af3b1/index.html</link>
+            <guid isPermaLink="false">e2fdee5a-4afe-48c3-87a6-9c072d6af3b1</guid>
+            <pubDate>Tue, 26 Jan 2016 07:59:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
