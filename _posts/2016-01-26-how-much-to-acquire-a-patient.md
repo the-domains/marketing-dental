@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T11:40:05.698Z'
-dateModified: '2016-01-26T11:39:21.235Z'
+datePublished: '2016-01-26T11:46:27.661Z'
+dateModified: '2016-01-26T11:46:23.297Z'
 title: How much to acquire a patient
 author: []
+sourcePath: _posts/2016-01-26-how-much-to-acquire-a-patient.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-how-much-to-acquire-a-patient.md
-published: true
 url: how-much-to-acquire-a-patient/index.html
 _type: Article
 
@@ -33,3 +33,4 @@ Okay this is going to vary, if someone pays for Invisalign they are going to be 
 Have a look at your total books over the last 3-5 years, take a look at typical patterns of behaviour. Then look at average spend and average patient lifetime. 
 
 This will give you a figure and from that you can work out what to spend on marketing. If a patient is worth £5000 throughout their lifetime with you, surely you can spend £200 on acquiring one!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51f6623b-da0e-4162-bada-cb09a70acc86.jpg)
