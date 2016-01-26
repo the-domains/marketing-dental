@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T12:51:30.936Z'
+datePublished: '2016-01-26T12:51:30.946Z'
 dateModified: '2016-01-26T12:51:27.201Z'
 title: How much to acquire a patient
 author: []
