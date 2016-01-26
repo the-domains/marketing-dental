@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T11:46:27.769Z'
-dateModified: '2016-01-26T11:46:23.297Z'
+datePublished: '2016-01-26T11:46:51.641Z'
+dateModified: '2016-01-26T11:46:44.062Z'
 title: How much to acquire a patient
 author: []
 sourcePath: _posts/2016-01-26-how-much-to-acquire-a-patient.md
