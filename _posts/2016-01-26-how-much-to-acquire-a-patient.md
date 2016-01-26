@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T12:13:39.679Z'
-dateModified: '2016-01-26T12:13:38.407Z'
+datePublished: '2016-01-26T12:51:30.773Z'
+dateModified: '2016-01-26T12:51:27.201Z'
 title: How much to acquire a patient
 author: []
 sourcePath: _posts/2016-01-26-how-much-to-acquire-a-patient.md
