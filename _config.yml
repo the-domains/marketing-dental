@@ -1,6 +1,6 @@
 name: Marketing Dental
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.01626
 typography_spectrum: 0.47244
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#5e5e5e'
     - '#ffffff'
     - '#d38578'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
