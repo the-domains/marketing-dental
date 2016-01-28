@@ -25,8 +25,8 @@ description: '22h ago @WestportDDS tweeted: "Are you being bamboozled by mislead
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/search?f=images&vertical=default&q=dental%20marketing&src=typd'
-datePublished: '2016-01-28T18:05:56.638Z'
-dateModified: '2016-01-28T17:48:54.225Z'
+datePublished: '2016-01-28T18:09:13.439Z'
+dateModified: '2016-01-28T17:49:04.750Z'
 title: ''
 sourcePath: _posts/2016-01-28-22h-ago-westportdds-tweeted-are-you-being-bamboozled-by-m.md
 published: true
