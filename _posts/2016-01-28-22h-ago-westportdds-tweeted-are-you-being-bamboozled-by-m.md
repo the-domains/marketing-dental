@@ -24,9 +24,9 @@ keywords:
 description: '22h ago @WestportDDS tweeted: "Are you being bamboozled by misleading p.." - read what others are saying and join the conversation.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/search?q=dental%20marketing&src=typd'
-datePublished: '2016-01-28T18:05:56.623Z'
-dateModified: '2016-01-28T17:48:43.732Z'
+isBasedOnUrl: 'https://twitter.com/search?f=images&vertical=default&q=dental%20marketing&src=typd'
+datePublished: '2016-01-28T18:05:56.638Z'
+dateModified: '2016-01-28T17:48:54.225Z'
 title: ''
 sourcePath: _posts/2016-01-28-22h-ago-westportdds-tweeted-are-you-being-bamboozled-by-m.md
 published: true
